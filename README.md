@@ -1,6 +1,6 @@
 # ReactRedux-CourseCatalog
 
-[![QUIZ APPLICATION](https://img.youtube.com/vi/IFZeo3VQNLQ/0.jpg)](https://youtu.be/IFZeo3VQNLQ)
+[![ReactRedux-CourseCatalog](https://img.youtube.com/vi/IFZeo3VQNLQ/0.jpg)](https://youtu.be/IFZeo3VQNLQ)
 
 
 Description:
